@@ -74,5 +74,5 @@ toSlug() tranforms a string into a slug.
 ### typeOf(any data)
 typeOf() return the type of the data in parameters (array, object, float, integer, string, boolean).
 
-## uid()
+### uid()
 uid() return a random id based on the timestamp.
