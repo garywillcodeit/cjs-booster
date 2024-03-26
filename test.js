@@ -30,5 +30,3 @@ const array2 = [
 
 const text =
   "Ce résultat est un tableau d'objets JSON contenant 5 objets avec les mêmes propriétés mais des valeurs différentes. Chaque objet a une valeur différente pour prop1, une valeur aléatoire pour prop2, et une valeur incrémentée pour prop3.";
-
-console.log(typeof true);
