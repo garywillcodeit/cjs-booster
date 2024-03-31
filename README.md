@@ -2,6 +2,13 @@
 
 This package will take your CJS Javascript projects to the next level. Discover lot of methods to do things easily.
 
+## Installation
+You can install the NPM package by running this command in your Node JS project folder:
+
+```
+npm i cjs-booster
+```
+
 ## Methods list
 
 ### allTrue(array)
