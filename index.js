@@ -14,11 +14,11 @@ const { reduceFor } = require("./lib/reduce_for");
 const { shuffle } = require("./lib/shuffle");
 const { sortAsc } = require("./lib/sort_asc");
 const { sortDesc } = require("./lib/sort_desc");
-const { splitLines } = require("./lib/splitlines");
 const { title } = require("./lib/title");
 const { toArray } = require("./lib/to_array");
 const { toBool } = require("./lib/to_bool");
 const { toObject } = require("./lib/to_obj");
+const { toSlug } = require("./lib/to_slug");
 const { typeOf } = require("./lib/type_of");
 const { uid } = require("./lib/uid");
 
@@ -56,11 +56,11 @@ module.exports = {
   maxValue,
   minValue,
   mapFor,
-  splitLines,
   reduceFor,
   toArray,
   toBool,
   toObject,
+  toSlug,
   lowerCaseLetters,
   upperCaseLetters,
   lowerAccentLetters,
