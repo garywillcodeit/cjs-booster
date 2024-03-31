@@ -1,6 +1,6 @@
 {
   "name": "cjs-booster",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package will takes your Common JS  projects to the next level. Discover lot of methods to do things easily.",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agence-gvam/cjs-booster.git"
+    "url": "https://github.com/garywillcodeit/cjs-booster"
   },
   "author": "Gary TELL",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/agence-gvam/cjs-booster/issues"
+    "url": "https://github.com/garywillcodeit/cjs-booster/issues"
   },
-  "homepage": "https://github.com/agence-gvam/cjs-booster#readme"
+  "homepage": "https://github.com/garywillcodeit/cjs-booster#readme"
 }
