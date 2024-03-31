@@ -100,6 +100,10 @@ toSlug() tranforms a string into a slug.
 
 typeOf() return the type of the data in parameters (array, object, float, integer, string, boolean).
 
+<<<<<<< HEAD
 ## uid()
 
+=======
+### uid()
+>>>>>>> 12b5e7094ad1eef2333fe10f0412f4b9bf6314c9
 uid() return a random id based on the timestamp.
